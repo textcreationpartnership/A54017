@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some brief observations upon George Keith's earnest expostulation contained in a postscript to a late book of his, entituled, The antichrists and sadducees detected, &amp;c. Offered to the perusal of such as the said expostulation was recommended to. By E. P.</title>
+            <author>Penington, Edward, 1667-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54017</idno>
+            <idno type="STC">Wing P1146</idno>
+            <idno type="STC">ESTC R216674</idno>
+            <idno type="EEBO-CITATION">99828398</idno>
+            <idno type="PROQUEST">99828398</idno>
+            <idno type="VID">32825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32825)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1856:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some brief observations upon George Keith's earnest expostulation contained in a postscript to a late book of his, entituled, The antichrists and sadducees detected, &amp;c. Offered to the perusal of such as the said expostulation was recommended to. By E. P.</title>
+                  <author>Penington, Edward, 1667-1701.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, in White-Hart-Court in Gracious-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Work signed at end: Edward Penington.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716. --  Antichrists and sadducees detected --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32825:1" rendition="simple:additions"/>
+            <p>SOME BRIEF, OBSERVATIONS UPON <hi>George Keith's</hi> Earneſt Expoſtulation, CONTAINED In a POSTSCRIPT to a late Book of his, ENTITULED, <hi>The Antichriſts and Sadducces Detected,</hi> &amp;c.</p>
+            <p>Offered to the Peruſal of ſuch as the ſaid Ex<g ref="char:EOLhyphen"/>poſtulation was Recommended to.</p>
+            <p>By <hi>E. P.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 7.16.</hi>
+               </bibl>
+               <p>His Miſchief ſhall return upon his own Head, and his violent Dealing ſhall come down up<g ref="char:EOLhyphen"/>on his own Pate.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32825:2"/>
+            <pb n="3" facs="tcp:32825:2"/>
+            <head>Some Brief Obſervations upon <hi>George Keith</hi>'s Earneſt Expoſtulation, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>PRide</hi> which coſt <hi>Lucifer</hi> Heaven, and <hi>Enmi<g ref="char:EOLhyphen"/>ty</hi> which inſtigated him to Cheat our firſt Parents of Paradiſe by his lying Inſinuati<g ref="char:EOLhyphen"/>ons, have of late alſo wrought in one, who not long ſince was a declared Friend of, Preacher a<g ref="char:EOLhyphen"/>mongſt, and Champion for the People called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> whereby he is become an <hi>Apoſtate</hi> from, Op<g ref="char:EOLhyphen"/>poſer of, and inveterate Adverſary to their Pro<g ref="char:EOLhyphen"/>feſſion and Principles, in relation to divers things wherein he was formerly one with them. 'Tis <hi>George Keith</hi> I mean, who by reaſon of Ambiti<g ref="char:EOLhyphen"/>on, overvalue of himſelf, and undervalue of others, as one not content with his Station, though he was well eſteemed, and well uſed too amongſt us, aſpired to have been <hi>Supreme Dictator,</hi> and <hi>Sove<g ref="char:EOLhyphen"/>reign Director</hi> of our Principles and Religious Af<g ref="char:EOLhyphen"/>fairs; ſeeming deſirous that we ſhould receive the Law from his Mouth, reſpecting both Faith and Diſcipline, as well as that be fondly imagi<g ref="char:EOLhyphen"/>ned, that he, and he alone amongſt the <hi>Quakers,</hi> had Monopolized Knowledge; who it ſeems told a Friend of ours in <hi>America,</hi> 
+               <q>If you ſerve <hi>George Keith</hi> ſo, <hi>George Keith</hi> will leave you, and then ye ſhall wander about for lack of Knowledge, and ſhall not find it (ſee <hi>Modeſt Account,</hi> p. 28.)</q> He, I ſay, finding the <hi>Quakers</hi> not diſpoſed to
+<pb n="4" facs="tcp:32825:3"/>
+run their Necks under his Yoke, but as a free So<g ref="char:EOLhyphen"/>ciety, refuſing to part with their Liberty in ſub<g ref="char:EOLhyphen"/>mitting to his Scheme of Diſcipline, and as a Re<g ref="char:EOLhyphen"/>ligious one, as unwilling to entertain ſome fond Notions he was impoſing upon them, together with his unſcriptural Creeds, which ever ſince we were a People ſeparated from other Societies of <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> we always proteſted againſt; his Enmity immediately joined Hands with his Pride, and ſince he could not have his Will one way, <hi>viz.</hi> to bring us to his Bow, endeavours to obtain his Will another way, <hi>viz.</hi> to overturn us wholly, and to that end ſets his Miſchievous Wits to work to defame us, and render us (whom he had above Thirty Years owned as Brethren, <hi>The Church coming out of the Wilderneſs, The People of God,</hi> &amp;c.) as <hi>Antichriſts, Sadducees, Propagators of vile and groſs Errors, Hereſies,</hi> &amp;c. from the ve<g ref="char:EOLhyphen"/>ry ſame Topicks from which our former Antago<g ref="char:EOLhyphen"/>niſts had ſo often heretofore attempted the like in vain, and in thoſe very Doctrines in which he himſelf had ſo frequently vindicated us againſt them, and yet hath the Face to ſay, <q>He knows not any Fundamental Principle, nor indeed any one Principle of the Chriſtian Faith, that he hath varied from, ever ſince he came among the <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> which is about 33 Years ago, <hi>Exact Nar<g ref="char:EOLhyphen"/>rative,</hi> p. 15.</q> This is the Man, who finding too much Work upon his Hands, calls out to you for help, whom he now (to accompliſh his ends up<g ref="char:EOLhyphen"/>on you) terms <hi>Learned and Pious:</hi> Though (poor ſelf-inconſiſtent, ſelf contradictory Man) he once gave a different Character of your Learning and Piety too. Of your <hi>Learning,</hi> when, Citing <hi>Luther</hi>
+               <pb n="5" facs="tcp:32825:3"/>
+his <hi>calling <g ref="char:V">Ʋ</g>niverſities and Colledges of Philoſophy, Stews of Antichriſt,</hi> he adds, <q>For out of them comes this IGNORANT, SCANDALOUS Mi<g ref="char:EOLhyphen"/>niſtry, wherein they learn to talk of things they underſtand not, and prate in Man's Wiſdom, which is Carnal, Earthly and Deviliſh. And the <hi>Philoſophy</hi> ſo called, which is taught in them, is but meer Deceit and Pedantry, <hi>&amp;c. Help in time of need,</hi> p. 75, 76.</q> Again, towards the bottom of p. 76. <q>And I certainly know the Humane Wiſ<g ref="char:EOLhyphen"/>dom or Learning taught in them, is one of the main Bulwarks of <hi>Antichriſt</hi> againſt the Revela<g ref="char:EOLhyphen"/>tion and ſetting up the Kingdom of <hi>Chriſt</hi> in the Earth, and becauſe this is ariſing, and ſhall riſe, down muſt the other go, and all who ſeek to up<g ref="char:EOLhyphen"/>hold it, ſhall fail therewith.</q> Of your <hi>Piety,</hi> when on the one Hand he paints out <hi>Prelacy as a Limb of Antichriſt,</hi> ibid. p. 37. and their <hi>Miniſters,</hi> ſuch as <q>ran, and he [the Lord] ſent them not, and that their Covetouſneſs and Ambition, and ſeeking how to pleaſe Men for their own ends, and not his Honour, nor any true Zeal for him, ſet them on ſuch a Work, to Lord it over the People, <hi>&amp;c.</hi> ibid. p 47.</q> On the other Hand, he repreſents the <q>Presbyterian form of Church Diſ<g ref="char:EOLhyphen"/>cipline, Order and Government, nothing upon the Matter better than the Epiſcopal, ibid. p. 52.</q> telling an Adverſary of his, of that Communion, he was <q>better skilled in Railing, than in the way of Diſputing;</q> a Black Art, to be ſure, ſaith he, <q>too familiar to the Tribe of Black-Coats, <hi>Way caſt up,</hi> p. 169.</q> In which Book he alſo gives theſe Exceptions againſt them and their Miniſtry, <q>Becauſe theſe Men, (ſaith he) did
+<pb n="6" facs="tcp:32825:4"/>
+alſo Preach many Errours, and did not regard the inward Call and Movings of the Spirit of God, as they ſhould have done, but ſpake more frequently without them, than with them, and in their own will, beginning and ending with the Hour-glaſs: As alſo becauſe they laid too great weight on the bare outward Call of Men, and on meer natural and acquired Abilities, and have af<g ref="char:EOLhyphen"/>firmed, that Grace or Piety is not Eſſential to a Miniſter of Chriſt, and have not preached the pure Truth, as it is in <hi>Jeſus,</hi> but for moſt part, GROSS ERROURS, <hi>&amp;c.</hi>
+               </q> And again, <q>For theſe and many other Cauſes, we cannot own them as Miniſters of <hi>Chriſt,</hi> according to the pure Or<g ref="char:EOLhyphen"/>der of a Goſpel Miniſtry, and eſpecially be<g ref="char:EOLhyphen"/>cauſe they take Hire and Wages, as much as a<g ref="char:EOLhyphen"/>ny, they are HIRELINGS.</q> See p. 173. And laſtly, he lumps them altogether by Name, <hi>viz. Epiſcopal, Presbyterian, Independent</hi> and <hi>Baptiſt,</hi> ſaying, <q>ALL THESE, as well as OTHERS, are open and declared Enemies to the Holy Spi<g ref="char:EOLhyphen"/>rit, his inward Revelation and Inſpiration, by which alone the true Church is a living Church, <hi>&amp;c.</hi>
+               </q> See <hi>Presb. and Ind. Churches,</hi> p. 45. Printed no longer ago than <hi>Anno</hi> 1691. What think ye of this Deſcription <hi>G. K.</hi> hath given of you? Are ye <hi>changed,</hi> or is he? And if he be changed, how doth it appear? Hath he ever <hi>retracted</hi> this? If not, what Encouragement have ye to become his Jour<g ref="char:EOLhyphen"/>ney men, to work under him?</p>
+            <p>Now to you who may Merit the Title of <hi>Learn<g ref="char:EOLhyphen"/>ed and Pious,</hi> are theſe Lines more <hi>particularly</hi> di<g ref="char:EOLhyphen"/>rected, though <hi>generally</hi> to all: For Piety promotes Charity, and <hi>Charity <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks no evil,</hi> conſequently
+<pb n="7" facs="tcp:32825:4"/>
+will do none, and this being deſigned as a Coun<g ref="char:EOLhyphen"/>termine againſt <hi>G. K</hi>'s Mine, <hi>viz.</hi> His <hi>Poſtſcript</hi> to <hi>The Antichriſts and Sadducees,</hi> &amp;c. whereby he deſigned (no doubt) to blow us quite up, 'tis fit it ſhould be directed to the ſame Perſons to whom he directs his: Which when I ſhall have examined, and ſhewed the Folly, Malice, and groſs Abuſes contained therein, I dare ſubmit it to the really Pious and Learned. Therefore I ſhall proceed, and digeſt the Matters I propoſe to Treat upon, into Ten Heads.</p>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> His Repreſenting the Quakers as worſe than Papiſts.</head>
+               <p>
+                  <hi>G. K.</hi> —<q>Vile Errours as are boldly and a<g ref="char:EOLhyphen"/>vowedly promoted among a Sort and Gang of the People called <hi>Quakers,</hi> not only as bad as any <hi>Popery,</hi> but much <hi>worſe</hi> than <hi>the worſt</hi> of <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> in divers reſpects.</q>
+               </p>
+               <p>This is a groſs Abuſe indeed, What! Do we promote Errours <hi>worſe</hi> than Worſhipping a piece of Bread as God? What! <hi>Worſe</hi> than Adoring Images; quite oppoſite to Worſhipping God in Spirit and Truth? What! <hi>Worſe</hi> than praying to Saints and Angels, and making them our Media<g ref="char:EOLhyphen"/>tors and Interceſſors between God and us, and thereby <hi>Robbing the Man Chriſt Jeſus</hi> of his <hi>Media<g ref="char:EOLhyphen"/>torſhip?</hi> What! <hi>Worſe</hi> than placing Merit in Works of Man's own Righteouſneſs, and thereby overthrowing the Benefit accruing by that <hi>one Of<g ref="char:EOLhyphen"/>fering</hi> upon the Croſs? What! <hi>Worſe</hi> than Purga<g ref="char:EOLhyphen"/>tory which diſannuls Sanctification by the Spirit of God? Certainly a very <hi>ſtrange</hi> and <hi>malicious</hi> Cha<g ref="char:EOLhyphen"/>racter of us! But (God be thanked) he hath hi<g ref="char:EOLhyphen"/>therto
+<pb n="8" facs="tcp:32825:5"/>
+fallen ſhort in proof of any ſuch thing a<g ref="char:EOLhyphen"/>gainſt us. And likewiſe herein he ſhews his Folly too, in that leſs than 33 Years ago, <hi>viz.</hi> on the 16th of <hi>October,</hi> 1674. in a Diſpute between ſome of our Friends, and ſome Baptiſts, who endea<g ref="char:EOLhyphen"/>voured to render us no Chriſtians, held at our pub<g ref="char:EOLhyphen"/>lick Meeting-houſe near <hi>Wheeler-ſtreet, G. K.</hi> pub<g ref="char:EOLhyphen"/>lickly declared on our behalf, as it is related in <hi>A Brief Narrative of the Second Meeting,</hi> &amp;c. p. 69. thus, <hi>viz.</hi> 
+                  <q>See People, how the whole <hi>Proteſtant</hi> Cauſe lieth at ſtake; in the Defence whereof, we with all true <hi>Proteſtants,</hi> are concerned againſt the <hi>Jeſuits</hi> and <hi>Baptiſts,</hi> to their own overthrow, who take up the <hi>Papiſts</hi> Arguments againſt them<g ref="char:EOLhyphen"/>ſelves.</q> Is this Man conſiſtent with himſelf, I pray? He would make you believe he is the <hi>ſame</hi> Man now, as he was <hi>then,</hi> and he owns we are <hi>the ſame People ſtill:</hi> For he finds fault with our <hi>former</hi> as well as <hi>latter</hi> Books, as containing <hi>vile Errours,</hi> as you may ſee in this <hi>Poſtſcript,</hi> and yet in 1674. the WHOLE <hi>Proteſtant</hi> Cauſe it ſeems was concerned in the Defence of our Principles a<g ref="char:EOLhyphen"/>gainſt the <hi>Baptiſts:</hi> But in 1696. he ſaith, <hi>We promote vile Errours worſe than the worſt of Popery.</hi> Behold this is the Champion which ſome inconſi<g ref="char:EOLhyphen"/>derate Men among you abet. This is he that calls you in to his Aſſiſtance. <hi>Men of Sence</hi> I take many of you to be, ſuch I cannot but conclude will be aſhamed of him. For it muſt needs be a <hi>ſorry</hi> Religion that ſtands in need of <hi>ſuch</hi> a Defender. Then his Malice is yet more Conſpicuous, in that he knows the Government think not fit to per<g ref="char:EOLhyphen"/>mit the free Exerciſe of their Religion to the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> therefore if he could perſwade the Legiſla<g ref="char:EOLhyphen"/>tors,
+<pb n="9" facs="tcp:32825:5"/>
+that <hi>Quakeriſm</hi> is <hi>worſe</hi> than <hi>Popery,</hi> he might no doubt ſoon prevail ſo far, as to have a Law Enacted for depriving us of the Liberty, which we, <hi>by the Favour of the Government,</hi> enjoy; of which more anon.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> His Reflections upon the <hi>Proteſtant Clergy</hi> as more lukewarm, if they oppoſe not the <hi>Quakers</hi> here, than the <hi>Popiſh Clergy</hi> at <hi>Rome</hi> would be in ſuch a Caſe.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>And I am confident if ſuch Antichri<g ref="char:EOLhyphen"/>ſtian Errours and Hereſies were but the tenth part ſo avowedly Broached in the City of <hi>Rome,</hi> or any where elſe, in <hi>Popiſh</hi> Countries, theſe E<g ref="char:EOLhyphen"/>ſteemed Watchmen amongſt them, would be <hi>more</hi> Alarmed to oppoſe them by Word or Wri<g ref="char:EOLhyphen"/>ting, than moſt amongſt the <hi>Proteſtants</hi> do, which would ſeem to caſt a Reflection on the <hi>Proteſtant</hi> Churches, if ſome able Men, and of good Eſteem among them, both for Piety and ſound Know<g ref="char:EOLhyphen"/>ledge, be not awakened to beſtow ſome of their Time and Labour by their Writings, to oppoſe ſuch vile Errours.</q>
+               </p>
+               <p>This is doubly Malicious, both to us and you. We are accuſed by him of Errour and Hereſie, our Anſwers to his Slanders are publick, they pinch him, ſhew his great noiſe to be void of Subſtance, at this he's angry, and cries out much in the Lan<g ref="char:EOLhyphen"/>guage of the <hi>Jews</hi> againſt <hi>Paul, Acts</hi> 21.28. <hi>Men of</hi> Iſrael <hi>help.</hi> If you are prevailed upon by his <hi>Expoſtulation,</hi> his End is anſwered, in raiſing up ſome freſh Antagoniſts againſt us, to take up the Quarrel which himſelf ſeems well nigh weary of;
+<pb n="10" facs="tcp:32825:6"/>
+and thus he ſpits his Venom at us, and would thruſt your Fingers into the Fire to ſpare his own. But if you have more Diſcretion than to be inſti<g ref="char:EOLhyphen"/>gated by ſo Envious a <hi>Make-bate,</hi> to Eſpouſe his Baffled Cauſe, then his Impotent Malice falls ſoul upon you, the <hi>Papiſts</hi> will then out-do you in Zeal for the Chriſtian Faith. But in ſuch Zeal as <hi>G. K</hi>'s and the <hi>Papiſts,</hi> it will be your Honour and Ad<g ref="char:EOLhyphen"/>vantage never to emulate (or imitate) them: For as the <hi>Papiſts</hi> proceed by <hi>Inquiſition, Racks, Fire and Faggot,</hi> ſo he has clapt on the <hi>Sanbenitto,</hi> blows the Coals, turns <hi>Informer,</hi> and if we lived at <hi>Rome,</hi> or in any other Popiſh Country, would (I doubt not) aſſiſt in the Conſummation of the Tragedy. And therefore, how well it becomes a <hi>Proteſtant Nati<g ref="char:EOLhyphen"/>on</hi> to beware of ſuch bare-fac'd <hi>Incendiaries,</hi> judge ye.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> He Chargeable, while a <hi>Quaker,</hi> with what he Re<g ref="char:EOLhyphen"/>flects upon the <hi>Quakers</hi> for, in relation to Diſputes.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>And whereas many of the Chiefeſt Teachers and Leaders among the People called <hi>Quakers,</hi> have with great Boldneſs, provoked ſuch as differed from them to publick Diſputes—</q>
+               </p>
+               <p>This though he propoſeth as his Ground of putting you upon the like Method, yet he will get nothing by the Bargain, for the Stone he throws upwards falls down again upon himſelf. He is the Man that hath thus provoked ſuch as differed from him, witneſs his Carriage in <hi>New-England</hi> in 1688. where he made it his Buſineſs to Chal<g ref="char:EOLhyphen"/>lenge both <hi>Presbyterian</hi> and <hi>Independant</hi> Preachers there to Diſpute, (ſee his Book called <hi>Presb. and
+<pb n="11" facs="tcp:32825:6"/>
+Ind. Ch.</hi> p. 200.) and managed it in ſuch a Spi<g ref="char:EOLhyphen"/>rit and Temper as gave diſſatisfaction, even to his then Friends. <hi>State of the Caſe,</hi> p. 13.</p>
+               <p>That <hi>the Quakers have with great Boldneſs provo<g ref="char:EOLhyphen"/>ked to publick Diſputes,</hi> he ſays indeed, but doth not prove it. That they were in thoſe Times frequent<g ref="char:EOLhyphen"/>ly Miſrepreſented, both as to Principle and Pra<g ref="char:EOLhyphen"/>ctice by the then publick Preachers, by bitter In<g ref="char:EOLhyphen"/>vectives uttered againſt them from the Pulpit, ſo that many of them ran the Hazard of their Lives, through the Fury of the Populace, ſtirred up by thoſe Railing Accuſations; that to clear them<g ref="char:EOLhyphen"/>ſelves, and detect the Abuſes put upon them, they have ſought to manifeſt their own Innocency in the very Preſence, and before the Faces of their Opponents, I will not deny. The which was ſo far from tending to deſtroy the Civil Peace at that time, that it rather ſeemed a probable way to Calm the Incenſed Mob, by whom they were in danger, and to ſtill their inraged Minds, which o<g ref="char:EOLhyphen"/>therwiſe might have endangered the publick Peace. But the Caſe is not ſo between <hi>G. K.</hi> and us, who hath been the Aggreſſor, brought the Controverſie into Print, where in a more peace<g ref="char:EOLhyphen"/>able way 'twas carried on, than it can poſſibly be in the Method into which he would divert it, thereby to eaſe himſelf of a heavy Load, which lies weightily upon his Back, and which he would fain ſhift off from his own Shoulders upon yours. If you like it, take it, but I think ye had better take <hi>Solomon</hi>'s Caution, <hi>Prov.</hi> 26.17. and leave the Quarrel to be ended by him who began it. This leads me to the Fourth Head, <hi>viz.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb n="12" facs="tcp:32825:7"/>
+               <head>
+                  <hi>IV.</hi> His Itch to have you Dance after his Pipe, <hi>viz.</hi> Challenge Diſputes with the Quakers.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>Would it not therefore be a moſt equal, reaſonable, and commendable Practice, for any Perſons of true Piety, and ſolid Learning, moved with the Zeal of God's Glory, and Love of Truth, and with a holy Indignation againſt thoſe vile Errours that are publickly avouched by ſome leading Men amongſt the <hi>Quakers,</hi> as appeareth both by their former and latter Printed Books —openly and publickly to call them forth to a publick Hearing.</q>
+               </p>
+               <p>Here inſtead of an <hi>ignorant, ſcandalous Miniſtry,</hi> (whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h he once would have faſtned on ſome of you, as inſtanced already) or of <hi>open and declared Enemies to the Holy Spirit,</hi> &amp;c. which he Chargeth generally, he changeth his Terms to <hi>true Piety and ſolid Learning.</hi> But to what end I pray, but to ex<g ref="char:EOLhyphen"/>cite you, to be as <hi>turbulent</hi> as himſelf, as if he thought much that he ſhould be the only turbulent Man. <hi>Turners: Hall</hi> is his Stage of Contention, there he began this Method. He pleads want of Time and Ability to Write and Print. But in promoting his Work, he would have you find both, Time in Writing and Diſputing, and Abili<g ref="char:EOLhyphen"/>ty in Printing; Place indeed he doth not impoſe upon you, but if you pleaſe, 'tis like he'l ſpare you his own Cock-pit. You ſhall not want Flatte<g ref="char:EOLhyphen"/>ry to provoke you to <hi>Diſpute,</hi> any more than you did Taunts to provoke you to <hi>Print;</hi> yet perhaps if you come not forth at his Whiſtle, you may be paid off with your former Epithets, and paſs
+<pb n="13" facs="tcp:32825:7"/>
+with him for neither truly Pious, nor ſolidly Learned, that if his <hi>reſtleſneſs</hi> can but bring you out, his diſturbed Mind may get ſome caſe by ha<g ref="char:EOLhyphen"/>ving Company: But how much ſuch Actions will tend to the promoting the Civil Peace, or rather how much they may tend to raiſe Diſcord and Heart-burnings amongſt the King's Subjects, time only would determine, though Judicious Men may foreſee.</p>
+               <p>Yet ſeeing he has Invited you to this Work, and that upon the ſcore of its being <hi>moſt equal</hi> and <hi>reaſonable;</hi> it may be worth your while to conſi<g ref="char:EOLhyphen"/>der, whether it would not be <hi>moſt equal</hi> and <hi>rea<g ref="char:EOLhyphen"/>ſonable</hi> for you, in the firſt place to begin with him, by calling him forth to a publick Hearing, upon thoſe former Books of his, in which he maintained and defended thoſe Doctrines, which he now calls <hi>groſs and vile Errours</hi> in ours; and ſee if ye can bring him to either defend his former Tenents, or <hi>openly</hi> and <hi>particularly retract</hi> them.</p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>V.</hi> His pretended tender Compaſſion to the Souls of People, highly inſincere.</head>
+               <p>
+                  <hi>G. K.</hi> — <q>And with a tender Compaſſion to the Souls of ſo many Thouſands in this Nation, that are in danger to periſh by the Infection of theſe Errours—</q>
+               </p>
+               <p>Can you think this Man ſincere in his Pretenſi<g ref="char:EOLhyphen"/>ons? What tender Compaſſion had he of the Souls of theſe many Thouſands, when he could promote (if ever the <hi>Quakers</hi> did ſo) theſe very Errours he now pretends us guilty of, recom<g ref="char:EOLhyphen"/>mend many of theſe Books as Orthodox former<g ref="char:EOLhyphen"/>ly,
+<pb n="14" facs="tcp:32825:8"/>
+which he now repreſents as Erroneous? He tells us in the <hi>Advertiſement</hi> of his Meeting at <hi>Tur<g ref="char:EOLhyphen"/>ners-Hall</hi> thus, <q>What change of Opinion I have had of them, is occaſioned by themſelves, in their late cloaking and excuſing vile Errours, which at laſt, by a more diligent ſearch into their Books (than formerly I made) I found them guilty of.</q> Now I appeal to you who are ſtudi<g ref="char:EOLhyphen"/>ous: Can you think that <hi>G. K.</hi> who was all a<g ref="char:EOLhyphen"/>long a ſtudious Man, would be concerned in a Controverſie jointly with <hi>G. Whitehead</hi> and <hi>W. Penn,</hi> and not make a diligent ſearch into the Books appertaining to that Controverſie? Was he not concerned in the Controverſie between <hi>T. Hicks</hi> and the <hi>Quakers,</hi> and were not the Books ſtiled, <hi>The Chriſtian Quaker,</hi> and <hi>Reaſon againſt Railing,</hi> part of them? Would <hi>G. K.</hi> think you vindicate <hi>W. Penn</hi> in his Controverſie with <hi>J. Fal<g ref="char:EOLhyphen"/>do,</hi> as he hath done in his <hi>Serious Appeal</hi> Printed but in 1692. and never make a diligent ſearch into <hi>Quakeriſm a new Nick-name for old Chriſtianity,</hi> or <hi>The Rejoinder to</hi> John Faldo? Laſtly, Would <hi>G. K.</hi> write a <hi>Poſtſcript</hi> to <hi>G. Whitehead</hi>'s <hi>Nature of Chri<g ref="char:EOLhyphen"/>ſtianity</hi> in Anſwer to <hi>R. Gordon,</hi> and yet not duly conſider the Matter therein contained, but reſt ſatisfied with an overly Reading it? As he pre<g ref="char:EOLhyphen"/>tends in the Marginal Note of <hi>The Exact Narra<g ref="char:EOLhyphen"/>tive,</hi> p. 17. Yet theſe are ſome of the Books he lately found fault with at <hi>Turners-Hall.</hi> And yet this Man will not own he is changed, no, not in any one Principle of the Chriſtian Faith theſe 33 Years. I would only query, Whether theſe things are Credible, or any ways reconcileable? How then can he be ſ<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> in his pretended tender
+<pb n="15" facs="tcp:32825:8"/>
+Compaſſion to the ſo many Thouſands of Souls in this Nation? Since it plainly appears, 'tis <hi>Prejudice</hi> againſt us, and not real Conviction, that formerly both he and we (for there we muſt be joined to<g ref="char:EOLhyphen"/>gether, let him ſay what he will now) held ſuch vile Errours, as of late he hath invidiouſly Charg<g ref="char:EOLhyphen"/>ed upon us, is the Moving Cauſe of his thus be<g ref="char:EOLhyphen"/>ſtirring himſelf againſt us.</p>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>VI.</hi> The Irregularity of his Propoſal of Diſturbing our Meetings, contrary to Law.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>Or if they continue to juſtifie them, to refute them openly in the Face of their own Meetings, and in the preſence of them that do ſo much admire and follow them. And thus to ſerve them, as they have ſerved others, and with what Meaſure they have met to others, the ſame to meet to them again.</q>
+               </p>
+               <p>If the Name of an <hi>Incendiary</hi> do not belong to this Man, I muſt confeſs I am to ſeek whom to ap<g ref="char:EOLhyphen"/>ply it to. The Government have been favourably pleaſed to pity our former Sufferings, to deliver us from thoſe Caterpillars, the Informers, by put<g ref="char:EOLhyphen"/>ting a ſtop to thoſe ſevere Laws which ſet them to work, and not only ſo, but farther have prohibited the offering us any diſturbance in the Exerciſe of our Religion, under the Penalty of Twenty Pounds Forfeiture by the Delinquent. Yet <hi>G. K.</hi> would fain have you not only diſturb our peaceable Meet<g ref="char:EOLhyphen"/>ings, but alſo incur the Penalties of the Statute in that Caſe made and provided. Is he not much your Friend in the mean time, I beſeech you? And would not you be well ſet on work, I pray, to o<g ref="char:EOLhyphen"/>bey his Directions?</p>
+               <p>
+                  <pb n="16" facs="tcp:32825:9"/>
+Yet before we part, let me put you in mind of another Text (that brought by him, of meeting to others, as they meet to them, being left with God to whom Vengeance belongs, <hi>Rom.</hi> 12.19.) <hi>viz. Mat.</hi> 7.12. And conſider, O ye ſeveral ſorts of Profeſſors of the <hi>Proteſtant</hi> Religion, whether <hi>Pre<g ref="char:EOLhyphen"/>latical, Presbyterian, Independent, Baptiſt,</hi> &amp;c. As ye are diſtinguiſhed by ſeveral Denominations, differing Doctrinally from one another, and each reputing the other Erroneous, in thoſe things wherein they differ (otherwiſe ſurely they would not have divided) would ye that Men ſhould do ſo to yo? For is there not the ſame ground in E<g ref="char:EOLhyphen"/>quity and Reaſon for me to oppoſe an Errour in you, as for you in me? And that the like liberty of openly impugning and refuting thoſe ſuppoſed Errours held by the other, and that in their open Meetings too, every Party might juſtly expect and uſe? Would this pleaſe you, to have your Religi<g ref="char:EOLhyphen"/>ous Aſſemblies made Stages of Debate and Conten<g ref="char:EOLhyphen"/>tion? Conſider it Man by Man, Society by Socie<g ref="char:EOLhyphen"/>ty. Or would it not diſturb the Peace of every Chriſtian Society, as well as hazard the Civil Peace of the Nation? It would almoſt tempt one to con<g ref="char:EOLhyphen"/>clude, if the Doctrine of <hi>Revolutions</hi> were as <hi>pro<g ref="char:EOLhyphen"/>bable</hi> an <hi>Hypotheſis,</hi> as <hi>G. K.</hi> hath repreſented it to be, that the Soul of <hi>Eroſtratus</hi> were come again in this <hi>Incendiary.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>VII.</hi> His Endeavours to excite the <hi>Civil Authority</hi> againſt us.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>And it would be a commendable and praiſe-worthy thing, for the <hi>Civil Authority</hi> to
+<pb n="17" facs="tcp:32825:9"/>
+Encourage ſuch a Practice throughout the Na<g ref="char:EOLhyphen"/>tion—</q>
+               </p>
+               <p>Now leſt you ſhould want Encouragement, he would fain inſtruct the <hi>Civil Authority</hi> what their Duty is in this Caſe. Which if he by that Term mean the <hi>King</hi> and <hi>Parliament;</hi> I query, Is he ſo fond to think, they will diſannul a Law of ſo good a tendency to humour his Spleen? But if by the <hi>Civil Authority,</hi> he means the <hi>Magiſtrates</hi> Conſti<g ref="char:EOLhyphen"/>tuted by the <hi>King</hi> for the due Adminiſtration of the Laws; can he imagine that they will, to pleaſe him, give Direction or Encouragement for the Breach of an Eſtabliſhed <hi>Act</hi> of <hi>Parliament,</hi> and thereby lay themſelves open to the Laſh of the Law, who are appointed for, and ſet in place to ſee to the due Execution of the Law? What a Child doth this Man make of himſelf, by talking after ſo fooliſh a manner?</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>VIII.</hi> His high Opinion of himſelf, in ſetting up for Directer both of <hi>Church</hi> and <hi>State,</hi> in Methods to be uſed for the Preſervation of the True <hi>Proteſtant Religion.</hi>
+               </head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>Surely ſuch a Practice as this, as it is no ways inconſiſtent with the Civil Peace, and Li<g ref="char:EOLhyphen"/>berty of Conſcience granted to <hi>Diſſenting Prote<g ref="char:EOLhyphen"/>ſtants</hi>— would be more Effectual to preſerve the True <hi>Proteſtant Religion</hi> in theſe Three Nations, than all the ſevere ways in former Times uſed againſt them, of Fines, Impriſonments, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>This ſhews him very Opinionative of himſelf, and (as I have already obſerved) is directly Con<g ref="char:EOLhyphen"/>tradictory to the Liberty given, as any Rational
+<pb n="18" facs="tcp:32825:10"/>
+Man, whoſe Eyes are not blinded by Prejudice, (as are <hi>G. K</hi>'s) may eaſily ſee, let him ſay what he will. But as Conceited as he is of his own Abi<g ref="char:EOLhyphen"/>lities, our Wiſe Senate exceed him I hope; and as they by Experience had found that Fines and Impriſonments were no proper Methods for the Preſervation of the True <hi>Proteſtant Religion,</hi> ſo have diſſented from him in their Judgments about Diſturbing of Meetings by publick Oppoſition, elſe why did they impoſe the aforementioned Pe<g ref="char:EOLhyphen"/>nalty upon the Diſturbers of them? For I believe Experience hath already in part, and will daily ſtill more and more demonſtrate, that it is not only a more effectual Means for Preſerving the True <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion</hi> in theſe Three Nations, but alſo for Uniting the Hearts of the <hi>King</hi>'s Subjects in Love and Peace, than any other rougher Methods. But in the mean time, what a Preſumptuous Man is this, thus to oppoſe his own ſingle Fancy, to the Mature Judgment of the whole Body of our <hi>Le<g ref="char:EOLhyphen"/>giſlators,</hi> as well as Idle in propoſing the ſetting <hi>Proteſtants</hi> together by the Ears, and Baiting one another in their publick Meetings, yea, and there<g ref="char:EOLhyphen"/>in to be encouraged by the <hi>Civil Authority,</hi> as an effectual way to preſerve the True <hi>Proteſtant Reli<g ref="char:EOLhyphen"/>gien?</hi> The likelieſt way (one would think) to make many turn either <hi>Papiſts</hi> or <hi>Atheiſts:</hi> And as ſuch, I cannot but take notice of it, and truly I think 'tis worthy of yours alſo.</p>
+            </div>
+            <div n="9" type="part">
+               <head>
+                  <hi>IX.</hi> His Malice againſt our Books.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>And though it is far from me to deſire the leaſt Sufferings to come on theſe Mens Per<g ref="char:EOLhyphen"/>ſons
+<pb n="19" facs="tcp:32825:10"/>
+or Eſtates, yet if ſuch a Zeal were raiſed in them bearing Authority in this Nation, to give Order, that all ſuch Books of them called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> as can readily be found (as great ſtore of ſuch there are) that contain ſuch vile and abo<g ref="char:EOLhyphen"/>minable Errours, to the Diſhonour of the wor<g ref="char:EOLhyphen"/>thy Name of <hi>Chriſt,</hi> and the <hi>Chriſtian Religion,</hi> and the great danger of many Souls, be diligent<g ref="char:EOLhyphen"/>ly ſearched and examined by the moſt Pious and Judicious Perſons in the Nation, and after due ſearch and examination, be found guilty; that by publick <hi>Authority</hi> all ſuch Books may be <hi>ſuppreſſed</hi> and witneſſed againſt.</q>
+               </p>
+               <p>We are not at all beholden to <hi>G. K.</hi> for his fa<g ref="char:EOLhyphen"/>vourable pretences, of not deſiring to bring <hi>Suf<g ref="char:EOLhyphen"/>ferings</hi> on our <hi>Perſons or Eſtates,</hi> for both he and we know 'tis a thing beyond his Power, and there<g ref="char:EOLhyphen"/>fore <hi>'tis</hi> prudence not to ſhew his Teeth unleſs he could bite: But were it in his power, I ſhould be loth to truſt him, for all what he ſays above, ſince he who hath ſo great a Spleen againſt our <hi>Books,</hi> cannot be ſuppoſed to have an over-great tender<g ref="char:EOLhyphen"/>neſs for our <hi>Perſons</hi> and <hi>Eſtates.</hi> The <hi>Papiſts</hi> be<g ref="char:EOLhyphen"/>ginning with <hi>Wickliff</hi>'s Books, proceeded at length to Burn his Bones, though Forty Years after.</p>
+               <p>Beſides, if he would have <hi>Authority</hi> believe our Books are <hi>Blaſphemous</hi> and <hi>Heretical,</hi> as he repre<g ref="char:EOLhyphen"/>ſents them, he is either groſly inſincere in pretend<g ref="char:EOLhyphen"/>ing it is far from him <hi>to deſire the leaſt Sufferings to come upon our Perſons or Eſtates,</hi> or elſe very igno<g ref="char:EOLhyphen"/>rant of the Law in ſuch Caſes, which deeply af<g ref="char:EOLhyphen"/>fects both Perſons and Eſtates, by Impriſonments, Fines and Pillory, beſides the Common <hi>Hangman</hi>'s Execution of the Books: Which is much like as
+<pb n="20" facs="tcp:32825:11"/>
+if he ſhould Charge us before <hi>Authority</hi> with be<g ref="char:EOLhyphen"/>ing Thieves, Robbers, or Traytors, and yet at the ſame time fawningly tell us the ſame Story al<g ref="char:EOLhyphen"/>ready mentioned, <hi>viz. It is far from me to deſire the leaſt Sufferings to come on theſe Mens Perſons or Eſtates,</hi> though the natural Conſequence thereof, if judicially proved, would be an incurring the Penalties of both Life and Eſtate. Surely he would not be ſo dealt with for any of his former Books, which the Learned of the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Diſſenters</hi> too, may deem as obnoxious as any of ours, and have never yet been retracted by him.</p>
+               <p>But perhaps one reaſon why he is ſo earneſt to have our Books ſuppreſſed, may be, becauſe then thoſe wrote againſt him would be effectually an<g ref="char:EOLhyphen"/>ſwered, and ſave him that pains, beſides an Expe<g ref="char:EOLhyphen"/>ctation of never hearing any more from us in Print, which hath been already ſo much to his <hi>Mortification:</hi> Suppoſing ('tis like) that if our Books be ſuppreſſed, we ſhall likewiſe be hindred from publiſhing any more, and then he may Scrib<g ref="char:EOLhyphen"/>ble without Controul, as he did in <hi>Pennſilvania.</hi>
+               </p>
+               <p>Now to you who are <hi>the moſt Pious and Judici<g ref="char:EOLhyphen"/>ous Perſons,</hi> on whom <hi>G. K.</hi> would impoſe this Task, I ſay with him, ſearch and examine our Books with a good will, for to that end they were publiſhed: We conceal them not, they are expo<g ref="char:EOLhyphen"/>ſed to open ſale. We fear not ſuch as you read<g ref="char:EOLhyphen"/>ing them, for we know you can never put on <hi>G. K</hi>'s Spectacles, while you remain <hi>Pious and Judi<g ref="char:EOLhyphen"/>cious,</hi> and therefore from you we miſtruſt not any Damage likely to accrue to us, or our Books, by the peruſal of them: Nor do we fear the partial
+<pb n="21" facs="tcp:32825:11"/>
+and inconſiderate; for if they ſhould ſhake Hands with <hi>G. K.</hi> wreſt and pervert as much as Partia<g ref="char:EOLhyphen"/>lity and blind Zeal can inſtigate them to, yet that God whom we ſerve is able, and I queſtion not but will raiſe up ſome in true Zeal to detect their Abuſes. Yet let them withal conſider, ſuch kind of Work hath been done long ſince, with ſmall Credit to the Perſons concerned therein, or Da<g ref="char:EOLhyphen"/>mage either to the Perſons miſrepreſented, but much Benefit to our Profeſſion, in having thereby an opportunity put into our Hands, of vindica<g ref="char:EOLhyphen"/>ting our Holy Religion from the unworthy Re<g ref="char:EOLhyphen"/>flections caſt upon it. Therefore as I am ſatisfied no <hi>Pious</hi> or <hi>Judicious Perſons</hi> will concern them<g ref="char:EOLhyphen"/>ſelves, in taking part with this <hi>Contentious</hi> Man, ſo I ſhall not endeavour to diſſwade others; if they like their <hi>Captain,</hi> let them obey his Word of Command. But ſince he propoſes to have this done by Order from Authority, I would wiſh all <hi>Proteſtants</hi> to weigh well the tendency of ſuch a <hi>Preſident,</hi> by conſidering how far ſuch a <hi>Project</hi> might have reached in the laſt <hi>Reign</hi> (had it been as induſtriouſly inſtilled into them, and they ſtood long enough to have been ſtrong enough) towards the ſuppreſſing of all <hi>Proteſtant</hi> Books.</p>
+            </div>
+            <div n="10" type="part">
+               <head>
+                  <hi>X.</hi> The Caſe between our Books, and his <hi>Pennſilvania</hi> Books, as ſtated by him, far different.</head>
+               <p>
+                  <hi>G. K.</hi> 
+                  <q>I may freely ſay theſe Men would have no juſt Cauſe to complain, that their Books ſhould be ſo dealt with, for they have done the like to Books that have oppoſed their groſs Er<g ref="char:EOLhyphen"/>rors, witneſs a parcel of Books writ (by me)
+<pb n="22" facs="tcp:32825:12"/>
+ſome Four Years ago, that came to <hi>London</hi> from <hi>Pennſilvania,</hi> oppoſing the groſs Errours of ſome called <hi>Quakers</hi> in that Province, which were de<g ref="char:EOLhyphen"/>ſigned to have been ſold in ſingle Books, and diſ<g ref="char:EOLhyphen"/>perſed through City and Countrey for a general Service: But the <hi>Quakers</hi> here at <hi>London</hi> gave <hi>Large Money</hi> to the Man that had them, that they might get them all into their Hands, on pur<g ref="char:EOLhyphen"/>poſe to ſuppreſs them—</q>
+               </p>
+               <p>And good reaſon too, for though he had began a difference in <hi>Pennſilvania,</hi> we were in Peace and Unity here, and he at that time pretended to be in Unity with us, and that his whole Quarrel lay a<g ref="char:EOLhyphen"/>gainſt thoſe beyond Sea. Therefore leſt his quar<g ref="char:EOLhyphen"/>relſome Books ſhould infect ſome with the ſame Spirit of Diſcord here, as his quarrelſome Diſ<g ref="char:EOLhyphen"/>courſes and Behaviour had infected ſome there, I think it was but common Prudence, to hide the Bone of Contention, which he lad prepared to throw in amongſt us. And as a Community or So<g ref="char:EOLhyphen"/>ciety of People amongſt whom he then pretended a Memberſhip, I think we had Right and Title to ſuch an Authority over his ſaid Books, ſince they were publiſhed without the Approbation of thoſe with whom we had Fellowſhip, with an apparent Deugn to leven a Faction for himſelf, againſt the time when he ſhould think fit to Commence <hi>Sect<g ref="char:EOLhyphen"/>maſter</hi> of a <hi>New Society.</hi> Whereas we neither in our Do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trinal nor Controverſial Books, ever pre<g ref="char:EOLhyphen"/>tended to be of the ſame Church with thoſe whoſe Principles we oppoſed, thereby to raiſe Inteſtine Diviſions amongſt them, but openly declared our ſelves Antagoniſts, and thereby whatever of their Church Members we by our Arguments could
+<pb n="23" facs="tcp:32825:12"/>
+prevail with to Embrace our Principles, were brought over to us by a fair plain-dealing Me<g ref="char:EOLhyphen"/>thod. Therefore they had not the like pretence of Authority over our Books, as we had over thoſe of his. Beſides his Books were fairly bought and paid for, and by what I perceive by his own Conceſſion, a great deal more given for them, than they were really worth, for I conceive the beſt uſe they deſerve to be put to, is to ſupply the Tobacconiſts and Paſtry-Cooks Shops (not to ſay the Bog-houſes) with waſte Paper. But now he hath actually ſet up his Standard againſt us, is turned our open Adverſary, and as ſuch diſowned by us, let him Print what he pleaſe, he need not fear be<g ref="char:EOLhyphen"/>ing ſerved ſo now, for we know better how to employ our Money, than to Buy up whole Impreſ<g ref="char:EOLhyphen"/>ſions of his Contentious Books, he being likely to do us leſs Miſchief now he is a declared Enemy, though he ſhould Scribble ten times as much as he does, than he was while a pretended Friend. Yet if he can perſwade the Civil Magiſtrates, or you either, to Buy up our Books (as he alledges we ſerved him by his) let it be done and welcome, and I queſtion not but the Printers will ſay <hi>Wel<g ref="char:EOLhyphen"/>come</hi> too, but there is not a word of <hi>Buying</hi> ours in his Propoſal, no, he ſeems to be for a general Sei<g ref="char:EOLhyphen"/>zure of them, as if they were Prohibited Goods, by reaſon of the pretended falſe Doctrines in them, therefore his Compariſon will not hold be<g ref="char:EOLhyphen"/>tween our Buying his, and his propoſed Seizure of ours. Neither doth be conſider ſurely, that his former Books wrote while amongſt us, and in Unity with us, come under the ſame Predicament with ours, if his Project takes; for if ever ours
+<pb n="24" facs="tcp:32825:13"/>
+contained vile Errours and Hereſies, ſo likewiſe, and much more, have thoſe of his, notwithſtand<g ref="char:EOLhyphen"/>ing his 33 Years Conſtancy in the True Faith he pretends to.</p>
+               <p>Thus have I endeavoured to blow away the Smoke, which this angry Man hath raiſed to blind your Eyes, who methinks cannot but ſee 'tis <hi>En<g ref="char:EOLhyphen"/>mity</hi> and not <hi>Piety</hi> that ſets him to Work, him<g ref="char:EOLhyphen"/>ſelf having taken Pains to Decipher it in very le<g ref="char:EOLhyphen"/>gible Characters, eaſily diſtinguiſhable by ſuch as he applies himſelf to, <hi>viz.</hi> Men of Learning, Judgment and Piety: As well as that it is not his deference to you, that makes him fawn upon you now, whom he once gave a far different Chara<g ref="char:EOLhyphen"/>cter of, but the low Ebb his bad Cauſe has brought him to, which makes him crave your help at a dead lift. And ſo with you I ſhall leave it, to your peruſal and conſideration I ſubmit it, hoping you will not account it Preſumption in me, who am but a young Man, of mean Parts and meaner Learning, to direct my unpoliſhed Lines to ſo ma<g ref="char:EOLhyphen"/>ny eminently Learned and of great Parts: But ra<g ref="char:EOLhyphen"/>ther that ye will Attribute it to the Zeal I bear to the Profeſſion I am under, in which I was edu<g ref="char:EOLhyphen"/>cated, and what is more, to which my Judgment and Conſcience lead me to adhere, as being per<g ref="char:EOLhyphen"/>ſwaded it comes nearer up to <hi>Primitive Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> than any other, and which <hi>G. K.</hi> (after ſo many Years continuing in it, and ſo many Books writ in Defence of it) hath <hi>notoriouſly</hi> traduced and ſlandered.</p>
+               <closer>
+                  <signed>Edward Penington.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
